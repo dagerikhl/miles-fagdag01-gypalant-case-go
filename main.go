@@ -23,10 +23,17 @@ var characters = []character{
 	{ID: "3", Name: "Jarl Berserkarson", InPlay: false, Strength: 18, Intelligence: 3, Charisma: 18},
 }
 
+// To run this Go application, run:
+// 1. `go get .` (fetched dependencies).
+// 2. `go run .` (starts the server).
+// 3. Test the server with one of the examples below.
 func main() {
 	router := gin.Default()
+	// Test with: curl http://localhost:8080/characters
 	router.GET("/characters", getCharacters)
+	// Test with: curl http://localhost:8080/characters --include --header "Content-Type: application/json" --request "POST" --data '{"id": "4", "name": "Kaladin Stormblessed", "inPlay": true, "strength": 16, "intelligence": 14, "charisma": 15}'
 	router.POST("/characters", postCharacters)
+	// Test with: curl http://localhost:8080/characters/3
 	router.GET("/characters/:id", getCharacterByID)
 
 	router.Run("localhost:8080")
