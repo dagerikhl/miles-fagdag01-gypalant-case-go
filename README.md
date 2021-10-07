@@ -40,7 +40,12 @@ NB: Om dere velger veien med tutorial er det ikke sikkert dette er like relevant
 
 ### Kildekode-starter
 
-https://github.com/dagerikhl/miles-fagdag01-gypalant-case-go.
+Veier:
+
+1. https://github.com/sbinet/margo.
+2. https://github.com/dagerikhl/miles-fagdag01-gypalant-case-go/tree/starter-02-blank-slate.
+3. https://github.com/dagerikhl/miles-fagdag01-gypalant-case-go/tree/starter-03-api.
+
 
 ### Ressurser
 
