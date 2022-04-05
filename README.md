@@ -13,7 +13,7 @@ Dag Erik er tilgjengelig for spørsmål og hjelp, om opplegget eller kode, under
 
 ### Casebeskrivelse
 
-Se foilsett på skjerm (hvis vi er heldige) eller her: https://docs.google.com/presentation/d/1z1nvVod5Vv7NIsMP75N4xQTfOSJ35A_qsiF80-SEXw0/edit?usp=sharing.
+Se foilsett på skjerm (hvis vi er heldige) eller her: https://docs.google.com/presentation/d/1c5aniCgw0_dXVi15ejIKyp3bnc1qwN4EoroZUNQ13WQ/edit?usp=sharing.
 
 ### Forhåndskrav
 
